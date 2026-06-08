@@ -11,7 +11,7 @@ Hi! I am Jijie Li, a master's student at the University of Chinese Academy of Sc
 
 My research interests include generative models, structured representation learning, and embodied AI, with a particular focus on object-centric visuomotor learning and generative sequential modeling.
 
-Previously, I worked on controllable generative editing and representation purification. I am currently working on robust object-centric policy learning for visuomotor action generation.
+Previously, I worked on controllable image editing and representation purification for generative models. I am currently working on robust object-centric policy learning for visuomotor action generation.
 
 
 ## Education
