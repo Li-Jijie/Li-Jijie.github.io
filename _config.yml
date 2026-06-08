@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "868.jpg"
   name             : "Jijie Li"
-  pronouns         : "He/Him"  
-  bio              : "Master's student at UCAS & CASIA interested in embodied AI and object-centric visuomotor learning."
+  #pronouns         : "He/Him"  
+  bio              : "Master's student at UCAS & CASIA interested in generative models and embodied AI."
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences (UCAS) & CASIA"
+  employer         : "UCAS & CASIA"
   uri              : # URL
   email            : "lijijie2024@ia.ac.cn" 
 
