@@ -9,10 +9,9 @@ redirect_from:
 
 Hi! I am Jijie Li, a master's student at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/) at the [Center for Biometrics and Security Research (CBSR)](http://www.cbsr.ia.ac.cn/).
 
-My research interests include generative models, structured representation learning, and embodied AI, with a particular focus on object-centric visuomotor learning and generative sequential modeling.
+My research interests lie in representation learning, generative models, and world models, with a particular focus on object-centric learning, structured representations, and controllable generative modeling.
 
-Previously, I worked on controllable image editing and representation purification for generative models. I am currently working on robust object-centric policy learning for visuomotor action generation.
-
+Previously, I worked on controllable image editing and representation purification for generative models. I am currently exploring object-centric representations for downstream applications, including world models and visuomotor action generation.
 
 ## Education
 
