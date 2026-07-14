@@ -7,21 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA), where I am advised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/) at the [Center for Biometrics and Security Research (CBSR)](http://www.cbsr.ia.ac.cn/).
+I am a master's student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/) at the [Center for Biometrics and Security Research (CBSR)](http://www.cbsr.ia.ac.cn/). My research focuses on representation learning, generative models, object-centric learning, and world models.
 
-My research lies at the intersection of representation learning, generative models, and embodied intelligence. I am particularly interested in object-centric learning, structured representation learning, controllable generation, and world models.
+我是中国科学院大学与中国科学院自动化研究所计算机应用技术硕士生，导师是[朱相宇老师](https://xiangyuzhu-open.github.io/homepage/)，隶属于[生物特征识别与安全研究中心（CBSR）](http://www.cbsr.ia.ac.cn/)。我的研究兴趣主要包括表征学习、生成模型、对象中心学习和世界模型。
 
-My recent work has focused on controllable image editing and representation purification for generative models. I am currently exploring object-centric representations for downstream applications, including world modeling and visuomotor action generation.
+I am currently applying for PhD positions in machine learning and computer vision. If you are interested in potential collaboration, please feel free to contact me.
 
-I am building a research profile oriented toward future PhD applications in machine learning and computer vision.
+我目前正在申请机器学习与计算机视觉方向的 PhD。如果你对合作感兴趣，欢迎通过邮件联系我。
 
-## Research Interests
+## News
 
-- Representation learning
-- Generative models
-- Object-centric learning
-- Structured representations
-- World models and embodied AI
+- **Jul 2026**: Our paper *The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer* was accepted to **ACM MM 2026** and released on [arXiv](https://arxiv.org/abs/2607.11281).
+- **2025**: *HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits* was accepted to **CCBR 2025**.
 
 ## Selected Publications
 

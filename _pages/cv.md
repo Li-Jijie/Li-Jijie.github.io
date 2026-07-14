@@ -9,26 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+Email
+======
+* [lijijie2024@ia.ac.cn](mailto:lijijie2024@ia.ac.cn)
+
+Research Interests
+======
+* Representation learning, generative models, object-centric learning, structured representations, and world models
+
 Education
 ======
 * **M.S. in Computer Application Technology**, University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences (CASIA), 2024-2027 (expected)
 * **B.Eng. in Mechanical Engineering**, Wuhan University of Technology, 2020-2024
 
-Research Interests
-======
-* Representation learning
-* Generative models
-* Object-centric learning
-* Structured representations
-* World models and embodied AI
-
 Research Experience
 ======
 * **Master's Student**, UCAS and CASIA, 2024-present
   * Advisor: [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/)
-  * Research topics include controllable image editing, representation purification for generative models, object-centric learning, and downstream applications in world models and visuomotor generation.
+  * Working on controllable image editing, representation purification for generative models, object-centric learning, and downstream applications in world models and visuomotor generation.
 
-Profiles
+Academic Profiles
 ======
 * Google Scholar: [scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN)
 * ORCID: [orcid.org/0009-0005-1216-9502](https://orcid.org/0009-0005-1216-9502)
