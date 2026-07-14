@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Computer Application Technology**, University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences (CASIA), 2024-2027 (expected)
+* **B.Eng. in Mechanical Engineering**, Wuhan University of Technology, 2020-2024
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Representation learning
+* Generative models
+* Object-centric learning
+* Structured representations
+* World models and embodied AI
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Master's Student**, UCAS and CASIA, 2024-present
+  * Advisor: [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/)
+  * Research topics include controllable image editing, representation purification for generative models, object-centric learning, and downstream applications in world models and visuomotor generation.
+
+Profiles
+======
+* Google Scholar: [scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN)
+* ORCID: [orcid.org/0009-0005-1216-9502](https://orcid.org/0009-0005-1216-9502)
+* OpenReview: [openreview.net/profile?id=%7EJijie_Li4](https://openreview.net/profile?id=%7EJijie_Li4)
+* GitHub: [github.com/Li-Jijie](https://github.com/Li-Jijie)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
