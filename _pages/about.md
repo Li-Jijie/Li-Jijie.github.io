@@ -14,12 +14,12 @@ I am currently applying for PhD positions in machine learning and computer visio
 ## News
 
 - **Jul 2026**: Our paper *The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer* was accepted to **ACM Multimedia 2026 (Oral)** and released on [arXiv](https://arxiv.org/abs/2607.11281).
-- **2025**: *HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits* was accepted to **CCBR 2025**.
+- **2025**: *HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits* was accepted to **CCBR 2025 (Oral)**.
 
 ## Selected Publications
 
 1. **The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer**. **Jijie Li**, Jiankuo Zhao, Xiangyu Zhu* and Zhen Lei. ACM Multimedia 2026 (Oral). [arXiv](https://arxiv.org/abs/2607.11281)
-2. **HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits**. **Jijie Li**, Xiangyu Zhu*, Xiaoyu Zhu and Zhen Lei. Chinese Conference on Biometric Recognition (CCBR) 2025. [Paper](https://link.springer.com/chapter/10.1007/978-981-95-6123-0_19)
+2. **HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits**. **Jijie Li**, Xiangyu Zhu*, Xiaoyu Zhu and Zhen Lei. CCBR 2025 (Oral). [Paper](https://link.springer.com/chapter/10.1007/978-981-95-6123-0_19)
 
 \* corresponding author
 
