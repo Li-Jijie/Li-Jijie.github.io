@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/) at the [Center for Biometrics and Security Research (CBSR)](http://www.cbsr.ia.ac.cn/). My research focuses on representation learning, generative models, object-centric learning, and world models.
+I am a master's student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA). I am advised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/) at the [Center for Biometrics and Security Research (CBSR)](http://www.cbsr.ia.ac.cn/) at the [Multimodal Artificial Intelligence Systems State Key Laboratory](https://mais.ia.ac.cn/). My research focuses on representation learning, generative models, object-centric learning, and world models.
 
 I am currently applying for PhD positions in machine learning and computer vision. If you are interested in potential collaboration, please feel free to contact me.
 
