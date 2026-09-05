@@ -15,7 +15,7 @@ Email
 
 Research Interests
 ======
-* Representation learning, generative models, object-centric learning, structured representations, and world models
+* Controllable image editing and disentangled representation learning
 
 Education
 ======
@@ -26,7 +26,7 @@ Research Experience
 ======
 * **Master's Student**, UCAS and CASIA, 2024-present
   * Advisor: [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/)
-  * Working on controllable image editing, representation purification for generative models, object-centric learning, and downstream applications in world models and visuomotor generation.
+  * Working on controllable image editing, representation purification for generative models, and disentangled representation learning.
 
 Academic Profiles
 ======

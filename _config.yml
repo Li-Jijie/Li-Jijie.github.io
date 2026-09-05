@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jijie Li"
 title_separator          : "-"
 name                     : &name "Jijie Li"
-description              : &description "Master's student at UCAS & CASIA working on generative models, structured representation learning, and embodied AI."  # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Master's student at UCAS & CASIA working on controllable image editing and disentangled representation learning."  # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://li-jijie.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "868.jpg"
   name             : "Jijie Li"
   #pronouns         : "He/Him"  
-  bio              : "Master's student at UCAS & CASIA working on generative models, structured representation learning, and embodied AI."
+  bio              : "Master's student at UCAS & CASIA working on controllable image editing and disentangled representation learning."
   location         : "Beijing, China"
   employer         : "UCAS & CASIA"
   uri              : # URL
