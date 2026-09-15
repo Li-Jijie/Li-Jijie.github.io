@@ -25,13 +25,12 @@ This page lists my publications and preprints. For the most up-to-date record, p
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single.html type="publication" %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include archive-single.html type="publication" %}
   {% endfor %}
 {% endif %}
-
 

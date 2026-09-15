@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA). I am advised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/) at the [Center for Biometrics and Security Research (CBSR)](http://www.cbsr.ia.ac.cn/) at the [Multimodal Artificial Intelligence Systems State Key Laboratory](https://mais.ia.ac.cn/). My research focuses on controllable image and video generation, with a focus on image editing and structured visual representations.
+I am a master's student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA). I am advised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/) at the [Center for Biometrics and Security Research (CBSR)](http://www.cbsr.ia.ac.cn/) at the [Multimodal Artificial Intelligence Systems State Key Laboratory](https://mais.ia.ac.cn/). My research focuses on controllable image and video generation, disentangled representation learning, and structured visual representations.
 
 I am currently applying for PhD positions in machine learning and computer vision. If you are interested in potential collaboration, please feel free to contact me.
 
@@ -19,9 +19,9 @@ I am currently applying for PhD positions in machine learning and computer visio
 
 ## Selected Publications
 
-1. **The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer**. **Jijie Li**, Jiankuo Zhao, Xiangyu Zhu* and Zhen Lei. ACM Multimedia 2026. [arXiv](https://arxiv.org/abs/2607.11281)
-2. **Object-Centric Conditioning for Visuomotor Flow Matching**. **Jijie Li**, Xu Yang, Junhong Zou, Chunhai Zhao, Chaoyang Zhao*, Zhen Lei and Xiangyu Zhu*. Conference on Robot Learning 2026. Accepted. [OpenReview](https://openreview.net/forum?id=dKRgZYcdRV)
-3. **HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits**. **Jijie Li**, Xiangyu Zhu*, Xiaoyu Zhu and Zhen Lei. Chinese Conference on Biometric Recognition 2025 (Oral). [Paper](https://link.springer.com/chapter/10.1007/978-981-95-6123-0_19)
+1. **Object-Centric Conditioning for Visuomotor Flow Matching**. **Jijie Li**, Xu Yang, Junhong Zou, Chunhai Zhao, Chaoyang Zhao*, Zhen Lei and Xiangyu Zhu*. Conference on Robot Learning 2026. Accepted. [Project Page](/Object-Centric-Visuomotor-Flow/) [OpenReview](https://openreview.net/forum?id=dKRgZYcdRV)
+2. **The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer**. **Jijie Li**, Jiankuo Zhao, Xiangyu Zhu* and Zhen Lei. ACM Multimedia 2026. Accepted. [arXiv](https://arxiv.org/abs/2607.11281)
+3. **HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits**. **Jijie Li**, Xiangyu Zhu*, Xiaoyu Zhu and Zhen Lei. Chinese Conference on Biometric Recognition 2025. Oral presentation. [Paper](https://link.springer.com/chapter/10.1007/978-981-95-6123-0_19)
 
 \* corresponding author
 
