@@ -31,6 +31,7 @@ Research Experience
   * Identified identity leakage and flaw leakage in conditional generation and proposed a dual-purification framework that separates hairstyle, identity, and artifact-related factors.
 * **Object-Centric Visual Conditioning for Flow Matching Policies**, CASIA, 2026-present
   * Investigating object-centric visual conditioning for flow-matching-based visuomotor policies, separating semantic object information from spatial and geometric factors under distractors and perturbations.
+
 Academic Profiles
 ======
 * Google Scholar: [scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN)
