@@ -18,8 +18,14 @@
     .author-block { white-space: nowrap; }
     .publication-links { margin-top: 1.2rem; }
     .publication-links .button { margin: .25rem; }
+    .publication-links .button[aria-disabled="true"] { cursor: default; opacity: .62; pointer-events: none; }
     .teaser-image, .pipeline-image, .qualitative-image { width: 100%; height: auto; }
     .section { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+    .highlights { display: grid; gap: 1rem; margin-top: 1.5rem; }
+    .highlight { border-left: 3px solid #3273dc; padding: .25rem 0 .25rem 1rem; }
+    .highlight h3 { font-family: 'Google Sans', sans-serif; font-size: 1.08rem; margin: 0 0 .2rem; }
+    .highlight p { margin: 0; }
+    @media (min-width: 769px) { .highlights { grid-template-columns: repeat(3, 1fr); } }
     .result-table th, .result-table td { text-align: center !important; vertical-align: middle; }
     .result-table th:first-child, .result-table td:first-child { text-align: left !important; }
     .ours td { background: #fff0d9; font-weight: 700; }
@@ -55,7 +61,7 @@
             <div class="mt-3"><span class="tag is-info is-light is-medium">CoRL 2026 · Accepted</span></div>
             <div class="publication-links">
               <a href="assets/paper.pdf" class="button is-dark is-rounded">Paper</a>
-              <a href="https://github.com/Li-Jijie/Object-Centric-Visuomotor-Flow" class="button is-dark is-rounded">Code</a>
+              <span class="button is-dark is-rounded" aria-disabled="true">Code Coming Soon</span>
               <a href="../publication/2026-object-centric-visuomotor-flow-matching" class="button is-dark is-rounded">Publication</a>
             </div>
           </div>
@@ -75,6 +81,21 @@
       <h2 class="title is-3 section-title">Abstract</h2>
       <div class="content has-text-justified">
         <p>Robot visuomotor policies are commonly formulated as autoregressive, diffusion-based, or more recently, flow matching models. Among them, Action-to-Action (A2A) flow matching improves inference efficiency by initializing generation from historical action priors rather than stochastic noise. However, stale historical motion patterns and entangled global visual representations can jointly reduce robustness under spatial out-of-distribution (OOD) shifts and visual distractors. In this work, we propose <strong>SlotFlow</strong>, an object-centric flow matching policy for robust visuomotor manipulation. SlotFlow decouples scene observations into semantic (&ldquo;what&rdquo;) features and lightweight image-plane spatial (&ldquo;where&rdquo;) cues to provide object-aware policy conditioning and current-state grounding. The semantic representation suppresses irrelevant background correlations, while the spatial cue improves adaptation to shifted object configurations. Extensive simulation and real-world experiments demonstrate improved robustness under visual distractors and severe spatial perturbations while preserving the low-step inference efficiency of A2A. Controlled initialization and perception ablations further identify object-centric grounding as a major source of the gains and show that it complements, rather than replaces, useful historical motion priors.</p>
+      </div>
+
+      <div class="highlights">
+        <div class="highlight">
+          <h3>Object-Centric Conditioning</h3>
+          <p>Separates task-relevant semantic object features from image-plane spatial cues.</p>
+        </div>
+        <div class="highlight">
+          <h3>Current-State Grounding</h3>
+          <p>Uses lightweight spatial anchors to adapt to shifted object configurations.</p>
+        </div>
+        <div class="highlight">
+          <h3>Efficient Generation</h3>
+          <p>Preserves the six-step inference budget of history-conditioned A2A flow matching.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -119,6 +140,27 @@
         <img class="qualitative-image" src="assets/qualitative_real.png" alt="Real-world qualitative results">
         <p class="caption has-text-centered">Real-world UR3 deployment under tablecloth replacement and object-position perturbations.</p>
       </div>
+    </div>
+  </section>
+
+  <section class="section pt-0">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 section-title">Open-Source Release</h2>
+      <div class="content has-text-justified">
+        <p>We are preparing the official implementation for public release. The release will include SlotFlow-specific code, configuration files, evaluation protocols, and reproduction instructions built on the A2A flow-matching framework. Checkpoints and data access details will be provided when the release is ready.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section pt-0">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 section-title">BibTeX</h2>
+      <pre class="bibtex">@inproceedings{li2026objectcentric,
+  title     = {Object-Centric Conditioning for Visuomotor Flow Matching},
+  author    = {Li, Jijie and Yang, Xu and Zou, Junhong and Zhao, Chunhai and Zhao, Chaoyang and Lei, Zhen and Zhu, Xiangyu},
+  booktitle = {Conference on Robot Learning},
+  year      = {2026}
+}</pre>
     </div>
   </section>
 
