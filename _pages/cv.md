@@ -32,8 +32,9 @@ Research Experience
 * **Object-Centric Visual Conditioning for Flow Matching Policies**, CASIA, 2026-present
   * Investigating object-centric visual conditioning for flow-matching-based visuomotor policies, separating semantic object information from spatial and geometric factors under distractors and perturbations.
 
-Academic Profiles
-======
+
+<h2>Academic Profiles</h2>
+
 * Google Scholar: [scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=t32ujOIAAAAJ&hl=zh-CN)
 * ORCID: [orcid.org/0009-0005-1216-9502](https://orcid.org/0009-0005-1216-9502)
 * OpenReview: [openreview.net/profile?id=%7EJijie_Li4](https://openreview.net/profile?id=%7EJijie_Li4)
