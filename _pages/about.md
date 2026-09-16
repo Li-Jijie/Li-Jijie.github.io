@@ -13,13 +13,13 @@ I am currently applying for PhD positions in machine learning and computer visio
 
 ## News
 
-- **Sep 2026**: Our paper *Object-Centric Conditioning for Visuomotor Flow Matching* was accepted to **CoRL 2026**.
+- **Sep 2026**: My first-author paper *Object-Centric Conditioning for Visuomotor Flow Matching* was accepted to **CoRL 2026**.
 - **Jul 2026**: Our paper *The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer* was accepted to **ACM Multimedia 2026** and released on [arXiv](https://arxiv.org/abs/2607.11281).
 - **2025**: *HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits* was accepted to **CCBR 2025 (Oral)**.
 
 ## Selected Publications
 
-1. **Object-Centric Conditioning for Visuomotor Flow Matching**. **Jijie Li**, Xu Yang, Junhong Zou, Chunhai Zhao, Chaoyang Zhao*, Zhen Lei and Xiangyu Zhu*. Conference on Robot Learning 2026. Accepted. [Project Page](/Object-Centric-Visuomotor-Flow/) [OpenReview](https://openreview.net/forum?id=dKRgZYcdRV)
+1. **Object-Centric Conditioning for Visuomotor Flow Matching**. **Jijie Li**, Xu Yang, Junhong Zou, Chunhai Zhao, Chaoyang Zhao*, Zhen Lei and Xiangyu Zhu*. Conference on Robot Learning 2026. Accepted. [Project Page](/Object-Centric-Visuomotor-Flow/)
 2. **The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer**. **Jijie Li**, Jiankuo Zhao, Xiangyu Zhu* and Zhen Lei. ACM Multimedia 2026. Accepted. [arXiv](https://arxiv.org/abs/2607.11281)
 3. **HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits**. **Jijie Li**, Xiangyu Zhu*, Xiaoyu Zhu and Zhen Lei. Chinese Conference on Biometric Recognition 2025. Oral presentation. [Paper](https://link.springer.com/chapter/10.1007/978-981-95-6123-0_19)
 
