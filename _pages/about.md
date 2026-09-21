@@ -13,8 +13,8 @@ I am currently applying for PhD positions in machine learning and computer visio
 
 ## News
 
-- **Sep 2026**: My first-author paper *Object-Centric Conditioning for Visuomotor Flow Matching* was accepted to **CoRL 2026**.
-- **Jul 2026**: Our paper *The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer* was accepted to **ACM Multimedia 2026** and released on [arXiv](https://arxiv.org/abs/2607.11281).
+- **Sep 2026**: *Object-Centric Conditioning for Visuomotor Flow Matching* was accepted to **CoRL 2026**.
+- **Jul 2026**: *The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer* was accepted to **ACM Multimedia 2026** and released on [arXiv](https://arxiv.org/abs/2607.11281).
 - **2025**: *HairEditor: Diffusion-Guided Supervision for StyleGAN-Based Hair Editing in Real-World Portraits* was accepted to **CCBR 2025 (Oral)**.
 
 ## Selected Publications
