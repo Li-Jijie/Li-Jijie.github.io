@@ -8,5 +8,6 @@ venue: "ACM Multimedia 2026"
 header:
   teaser: "publications/devil-leakage.jpg"
 paperurl: "https://arxiv.org/abs/2607.11281"
+link: "https://arxiv.org/abs/2607.11281"
 citation: "Jijie Li, Jiankuo Zhao, Xiangyu Zhu, and Zhen Lei. The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer. ACM Multimedia 2026. Accepted. arXiv:2607.11281."
 ---
